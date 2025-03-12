@@ -13,6 +13,7 @@ public class Main {
         System.out.println(hasTeen(22, 23, 34));
 
         System.out.println(isCatPlaying(true, 10));
+        System.out.println(isCatPlaying(false, 36));
 
 
         System.out.println(area(5.0, 4.0));
